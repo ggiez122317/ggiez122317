@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋 I'm John
 
-<!--
-**ggiez122317/ggiez122317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Learning Laravel & React
+- 🔭 Working on Campus Navigator
+- 💬 Ask me about PHP, MySQL, JavaScript
+
+---
+
+## 🛠 Tech Stack
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://linkedin.com/in/yourname
+- Email: your@email.com
