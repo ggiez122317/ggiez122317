@@ -51,11 +51,17 @@
 
 ---
 
+---
+
 ## 📫 Contact
 
-📧 **Email:** reggiealonsagay1@gmail.com
+[![Email](https://img.shields.io/badge/Email-reggiealonsagay1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reggiealonsagay1@gmail.com)
 
-📍 **Location:** Trento, Agusan del Sur, Philippines
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Reggie%20Alonsagay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reggie-alonsagay-24901a419/)
+
+[![Location](https://img.shields.io/badge/Location-Trento,%20Agusan%20del%20Sur,%20Philippines-2E8B57?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Trento,+Agusan+del+Sur,+Philippines)
+
+---
 
 ---
 
